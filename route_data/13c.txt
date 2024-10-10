@@ -1,0 +1,42 @@
+route_id,trip_id,stop_id,arrival_time,departure_time,shape_dist_traveled,stop_headsign,stop_name,stop_lat,stop_lon
+13C,5619cf26-f922-408c-a090-3a014953ed86,BUS491E,07:00:00,07:00:00,0.0,to Dorms & Dining Halls & Physics,McCutcheon Hall on McCutcheon (@Shelter): BUS491E,40.4255217567397,-86.9288731771036
+13C,1c8c2500-8f0b-44d7-a579-555fde61068e,BUS491E,18:04:00,18:04:00,0.0,to Dorms & Dining Halls & Physics,McCutcheon Hall on McCutcheon (@Shelter): BUS491E,40.4255217567397,-86.9288731771036
+13C,5619cf26-f922-408c-a090-3a014953ed86,BUS491E,18:04:00,18:04:00,5146.82,to Dorms & Dining Halls & Physics,McCutcheon Hall on McCutcheon (@Shelter): BUS491E,40.4255217567397,-86.9288731771036
+13C,1c8c2500-8f0b-44d7-a579-555fde61068e,BUS557,18:12:00,18:12:00,2008.42,to Dorms & Dining Halls & Physics,Physics Building: BUS557,40.430362,-86.913149
+13C,56ac61d7-13fd-4183-a051-132c5033bacf,BUS491E,18:12:00,18:12:00,0.0,to Dorms & Dining Halls & Physics,McCutcheon Hall on McCutcheon (@Shelter): BUS491E,40.4255217567397,-86.9288731771036
+13C,f0795e87-fb52-4359-9b69-3c8002895a74,BUS491E,18:20:00,18:20:00,0.0,to Dorms & Dining Halls & Physics,McCutcheon Hall on McCutcheon (@Shelter): BUS491E,40.4255217567397,-86.9288731771036
+13C,56ac61d7-13fd-4183-a051-132c5033bacf,BUS557,18:20:00,18:20:00,2008.42,to Dorms & Dining Halls & Physics,Physics Building: BUS557,40.430362,-86.913149
+13C,f0795e87-fb52-4359-9b69-3c8002895a74,BUS557,18:28:00,18:28:00,2008.42,to Dorms & Dining Halls & Physics,Physics Building: BUS557,40.430362,-86.913149
+13C,1c8c2500-8f0b-44d7-a579-555fde61068e,BUS567,,,1426.96,to Dorms & Dining Halls & Physics,Ford Hall on Stadium Ave: BUS567,40.431395,-86.919409
+13C,1c8c2500-8f0b-44d7-a579-555fde61068e,BUS201,,,1246.23,to Dorms & Dining Halls & Physics,Jischke Dr & Stadium Ave (SE Corner): BUS201,40.4313482349232,-86.9215291144598
+13C,1c8c2500-8f0b-44d7-a579-555fde61068e,BUS362,,,990.1,to Dorms & Dining Halls & Physics,Wiley Dining/RSC on Jischke Dr: BUS362,40.4290434973862,-86.921574885939
+13C,1c8c2500-8f0b-44d7-a579-555fde61068e,BUS366,,,771.51,to Dorms & Dining Halls & Physics,Jischke Dr & 3rd St (SW Corner): BUS366,40.4273201779914,-86.9222427560236
+13C,1c8c2500-8f0b-44d7-a579-555fde61068e,BUS470,,,421.94,to Dorms & Dining Halls & Physics,Hillenbrand Hall on 3rd St: BUS470,40.4273751632795,-86.9263746992573
+13C,5619cf26-f922-408c-a090-3a014953ed86,BUS898,,,4486.68,to Dorms & Dining Halls & Physics,First Street Towers on Mitch Daniels Blvd: BUS898,40.424308,-86.922719
+13C,5619cf26-f922-408c-a090-3a014953ed86,BUS063,,,3826.95,to Dorms & Dining Halls & Physics,Stone Hall on Oval Dr: BUS063,40.424251,-86.914949
+13C,5619cf26-f922-408c-a090-3a014953ed86,BUS435,,,3654.83,to Dorms & Dining Halls & Physics,Class of 1950: BUS435,40.4257859543434,-86.9148264476554
+13C,5619cf26-f922-408c-a090-3a014953ed86,BUS448,,,3478.03,to Dorms & Dining Halls & Physics,Stewart Center: BUS448,40.4252830401232,-86.913670415501
+13C,1c8c2500-8f0b-44d7-a579-555fde61068e,BUS190,,,1775.72,to Dorms & Dining Halls & Physics,Armstrong Hall on Stadium Ave (@Shelter): BUS190,40.431280459838,-86.9153011986793
+13C,5619cf26-f922-408c-a090-3a014953ed86,BUS271,,,3192.5,to Dorms & Dining Halls & Physics,Purdue Memorial Union (PMU) on MD Blvd: BUS271,40.4241243257597,-86.9118599243081
+13C,5619cf26-f922-408c-a090-3a014953ed86,BUS559,,,2482.71,to Dorms & Dining Halls & Physics,Northwestern Ave & Wiggins St (NW of): BUS559,40.4270640270152,-86.9094673937242
+13C,5619cf26-f922-408c-a090-3a014953ed86,BUS538,,,2251.21,to Dorms & Dining Halls & Physics,Electrical Engineering (at Shelter): BUS538,40.428627,-86.911277
+13C,5619cf26-f922-408c-a090-3a014953ed86,BUS557,,,2001.73,to Dorms & Dining Halls & Physics,Physics Building: BUS557,40.430362,-86.913149
+13C,5619cf26-f922-408c-a090-3a014953ed86,BUS190,,,1768.59,to Dorms & Dining Halls & Physics,Armstrong Hall on Stadium Ave (@Shelter): BUS190,40.431280459838,-86.9153011986793
+13C,5619cf26-f922-408c-a090-3a014953ed86,BUS567,,,1420.9,to Dorms & Dining Halls & Physics,Ford Hall on Stadium Ave: BUS567,40.431395,-86.919409
+13C,5619cf26-f922-408c-a090-3a014953ed86,BUS201,,,1241.5,to Dorms & Dining Halls & Physics,Jischke Dr & Stadium Ave (SE Corner): BUS201,40.4313482349232,-86.9215291144598
+13C,5619cf26-f922-408c-a090-3a014953ed86,BUS362,,,985.37,to Dorms & Dining Halls & Physics,Wiley Dining/RSC on Jischke Dr: BUS362,40.4290434973862,-86.921574885939
+13C,5619cf26-f922-408c-a090-3a014953ed86,BUS366,,,774.59,to Dorms & Dining Halls & Physics,Jischke Dr & 3rd St (SW Corner): BUS366,40.4273201779914,-86.9222427560236
+13C,5619cf26-f922-408c-a090-3a014953ed86,BUS470,,,424.88,to Dorms & Dining Halls & Physics,Hillenbrand Hall on 3rd St: BUS470,40.4273751632795,-86.9263746992573
+13C,5619cf26-f922-408c-a090-3a014953ed86,BUS412,,,2758.07,to Dorms & Dining Halls & Physics,NW Ave & Columbia St (Chauncey Village): BUS412,40.42497,-86.908061
+13C,f0795e87-fb52-4359-9b69-3c8002895a74,BUS366,,,771.51,to Dorms & Dining Halls & Physics,Jischke Dr & 3rd St (SW Corner): BUS366,40.4273201779914,-86.9222427560236
+13C,f0795e87-fb52-4359-9b69-3c8002895a74,BUS190,,,1775.72,to Dorms & Dining Halls & Physics,Armstrong Hall on Stadium Ave (@Shelter): BUS190,40.431280459838,-86.9153011986793
+13C,56ac61d7-13fd-4183-a051-132c5033bacf,BUS470,,,421.94,to Dorms & Dining Halls & Physics,Hillenbrand Hall on 3rd St: BUS470,40.4273751632795,-86.9263746992573
+13C,56ac61d7-13fd-4183-a051-132c5033bacf,BUS366,,,771.51,to Dorms & Dining Halls & Physics,Jischke Dr & 3rd St (SW Corner): BUS366,40.4273201779914,-86.9222427560236
+13C,56ac61d7-13fd-4183-a051-132c5033bacf,BUS362,,,990.1,to Dorms & Dining Halls & Physics,Wiley Dining/RSC on Jischke Dr: BUS362,40.4290434973862,-86.921574885939
+13C,56ac61d7-13fd-4183-a051-132c5033bacf,BUS567,,,1426.96,to Dorms & Dining Halls & Physics,Ford Hall on Stadium Ave: BUS567,40.431395,-86.919409
+13C,56ac61d7-13fd-4183-a051-132c5033bacf,BUS190,,,1775.72,to Dorms & Dining Halls & Physics,Armstrong Hall on Stadium Ave (@Shelter): BUS190,40.431280459838,-86.9153011986793
+13C,56ac61d7-13fd-4183-a051-132c5033bacf,BUS201,,,1246.23,to Dorms & Dining Halls & Physics,Jischke Dr & Stadium Ave (SE Corner): BUS201,40.4313482349232,-86.9215291144598
+13C,f0795e87-fb52-4359-9b69-3c8002895a74,BUS470,,,421.94,to Dorms & Dining Halls & Physics,Hillenbrand Hall on 3rd St: BUS470,40.4273751632795,-86.9263746992573
+13C,f0795e87-fb52-4359-9b69-3c8002895a74,BUS362,,,990.1,to Dorms & Dining Halls & Physics,Wiley Dining/RSC on Jischke Dr: BUS362,40.4290434973862,-86.921574885939
+13C,f0795e87-fb52-4359-9b69-3c8002895a74,BUS201,,,1246.23,to Dorms & Dining Halls & Physics,Jischke Dr & Stadium Ave (SE Corner): BUS201,40.4313482349232,-86.9215291144598
+13C,f0795e87-fb52-4359-9b69-3c8002895a74,BUS567,,,1426.96,to Dorms & Dining Halls & Physics,Ford Hall on Stadium Ave: BUS567,40.431395,-86.919409
