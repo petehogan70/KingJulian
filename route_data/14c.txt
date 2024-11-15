@@ -302,5 +302,5 @@ route_id,trip_id,stop_id,arrival_time,departure_time,shape_dist_traveled,stop_he
 14C,2169f20d-8a6d-4a61-92f6-eb8a2693f471,BUS562S,23:58:26,23:58:26,3838.39,to Tower Acres and Physics,Theta Chi on Tower Dr: BUS562S,40.4331875105612,-86.9259388402664
 14C,2169f20d-8a6d-4a61-92f6-eb8a2693f471,BUS472S,23:59:16,23:59:16,4082.35,to Tower Acres and Physics,Tower Dr & Hilltop Dr (SE Corner): BUS472S,40.4331915338749,-86.92314800162
 14C,2169f20d-8a6d-4a61-92f6-eb8a2693f471,BUS509SW,23:59:42,23:59:42,4208.78,to Tower Acres and Physics,Tower Dr & Jischke Dr (SW Corner): BUS509SW,40.4329756160364,-86.9216929031427
-14C,2169f20d-8a6d-4a61-92f6-eb8a2693f471,BUS190,24:02:11,24:02:11,4929.87,to Tower Acres and Physics,Armstrong Hall on Stadium Ave (@Shelter): BUS190,40.431280459838,-86.9153011986793
-14C,2169f20d-8a6d-4a61-92f6-eb8a2693f471,BUS557,24:03:00,24:03:00,5163.09,to Tower Acres and Physics,Physics Building: BUS557,40.430362,-86.913149
+14C,2169f20d-8a6d-4a61-92f6-eb8a2693f471,BUS190,00:02:11,00:02:11,4929.87,to Tower Acres and Physics,Armstrong Hall on Stadium Ave (@Shelter): BUS190,40.431280459838,-86.9153011986793
+14C,2169f20d-8a6d-4a61-92f6-eb8a2693f471,BUS557,00:03:00,00:03:00,5163.09,to Tower Acres and Physics,Physics Building: BUS557,40.430362,-86.913149
